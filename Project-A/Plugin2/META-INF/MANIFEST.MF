@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Plugin2
+Bundle-SymbolicName: Plugin2;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: plugin2.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ PluginCockpit;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
