@@ -73,15 +73,7 @@
 			
 		</plugins>
 	</build>
-<modules>
-		<module>../PluginProductB.repository</module>
-	</modules>
 	<dependencies>
-		<dependency>
-			<groupId>PluginParent</groupId>
-			<artifactId>Plugin2Feature</artifactId>
-			<type>eclipse-feature</type>
-		</dependency>
 		<dependency>
 			<groupId>PluginParent</groupId>
 			<artifactId>Plugin2</artifactId>
@@ -94,5 +86,14 @@
 			<version>1.0.0-SNAPSHOT</version>
 			<type>eclipse-plugin</type>
 		</dependency>
+		<dependency>
+			<groupId>PluginParent</groupId>
+			<artifactId>Plugin2Feature</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+			<type>eclipse-feature</type>
+		</dependency>
 	</dependencies>
+	<modules>
+		<module>../PluginProductB.repository</module>
+	</modules>
 </project>
