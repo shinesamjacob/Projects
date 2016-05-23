@@ -94,6 +94,9 @@
 		</dependency>
 	</dependencies>
 	<modules>
+		<module>../../Project-A/Plugin2</module>
+		<module>../../Project-A/Plugin2Feature</module>
+		<module>../../Project-A/PluginCockpit</module>
 		<module>../PluginProductB.repository</module>
 	</modules>
 </project>

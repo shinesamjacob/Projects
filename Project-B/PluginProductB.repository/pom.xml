@@ -6,7 +6,6 @@
 		<groupId>PluginBParent</groupId>
 		<artifactId>PluginB.parent</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
-		<relativePath>../PluginB.parent</relativePath>
 	</parent>
 
 	<artifactId>PluginProductB.repository</artifactId>
