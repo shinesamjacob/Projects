@@ -4,7 +4,7 @@
 		<groupId>PluginParent</groupId>
 		<artifactId>Plugin.parent</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
-		<relativePath>../Plugin.parent</relativePath>
+		<relativePath>../../Project-A/Plugin.parent</relativePath>
 	</parent>
 
 	<artifactId>Plugin2Feature</artifactId>

@@ -74,12 +74,13 @@
 		</plugins>
 	</build>
 
-	<modules>
-		<module>../Plugin1</module>
+<!-- 	<modules>
+		
 		<module>../Plugin1Feature</module>
 		<module>../Plugin2</module>
 		<module>../Plugin2Feature</module>
 		<module>../PluginCockpit</module>
 		<module>../PluginProduct.repository</module>
-	</modules>
+		<module>../Plugin1</module>
+	</modules> -->
 </project>
